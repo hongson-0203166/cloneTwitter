@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84DAC1E4-55CD-4933-AFB1-567C7656B825"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76217E0A-55EE-4FE1-98E1-22CE165B728D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "bindViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76217E0A-55EE-4FE1-98E1-22CE165B728D - 97b2046b54cfceb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CloneTwitter.TwitterUser, Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileViewController.bindViews() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2640">
+               </Location>
+               <Location
+                  uuid = "76217E0A-55EE-4FE1-98E1-22CE165B728D - 97b2046b54cfceb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CloneTwitter.TwitterUser, Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileViewController.bindViews() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CF224FD-04F0-4CB4-B8E1-03586A09F95E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "bindViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A07744B-FB62-4A86-A8CA-BD775C805A43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7521EEA3-2717-4A3C-8050-758BCD096062"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6337EFC-338A-4253-806B-5D138A1F3913"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6337EFC-338A-4253-806B-5D138A1F3913 - a5be0f7776b02f3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "F6337EFC-338A-4253-806B-5D138A1F3913 - a5be0f7776b02f3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF48BAAE-BC3B-4F5A-A89C-91F221476601"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF48BAAE-BC3B-4F5A-A89C-91F221476601 - d18d34fa3d83f3bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "BF48BAAE-BC3B-4F5A-A89C-91F221476601 - d18d34fa3d83f3bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "116388AC-A5D2-4DBE-A4FB-305733E36CE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "116388AC-A5D2-4DBE-A4FB-305733E36CE1 - bd91c3588a300b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "1276">
+               </Location>
+               <Location
+                  uuid = "116388AC-A5D2-4DBE-A4FB-305733E36CE1 - bd91c3588a300bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AC44A1E-89F7-4FCD-9F81-E79B2A4AEF6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AC44A1E-89F7-4FCD-9F81-E79B2A4AEF6E - bd91c3588a300a95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "4068">
+               </Location>
+               <Location
+                  uuid = "7AC44A1E-89F7-4FCD-9F81-E79B2A4AEF6E - bd91c3588a300a95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "4524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "904CA049-905C-4B69-A903-07797FC02416"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "904CA049-905C-4B69-A903-07797FC02416 - d18d34fa3d83f321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "904CA049-905C-4B69-A903-07797FC02416 - bd91c3588a300c19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "904CA049-905C-4B69-A903-07797FC02416 - d18d34fa3d83f321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CloneTwitter.ProfileDataFormViewController.uploadImageAvtAndProfile() -&gt; ()"
+                  moduleName = "CloneTwitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamhongson/Desktop/CloneTwitter/CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "203761B6-E18C-4751-8A9A-D5E85E44BE56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CloneTwitter/Controllers/General/ProfileDataFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "uploadImageAvtAndProfile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
